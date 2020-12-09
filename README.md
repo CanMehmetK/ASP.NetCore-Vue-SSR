@@ -17,3 +17,4 @@ Lets dance.
 
 1.Commit - Start new Repository.. Welcome to Your Vue.js App is ready to go.
 
+2.Commit - Add a .Net Core Project (Empty Project,) As Uncle bob said Good coe is that some one cared.
