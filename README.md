@@ -14,3 +14,6 @@ Everything is for money or/and resources(R) that you have.
  It seems this guys using packages already in the field. My Ide prefered to Yarn for install...Nearly5 mins to download..(R).. Fine and good for me. So known tech stach used.
 
 Lets dance.
+
+1.Commit - Start new Repository.. Welcome to Your Vue.js App is ready to go.
+
