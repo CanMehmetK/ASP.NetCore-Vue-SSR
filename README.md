@@ -1,24 +1,19 @@
-# asp.netcore-vue-ssr
+# ASP.NetCore-Vue-SSR
+Asp.Net Core Vue
 
-## Project setup
-```
-yarn install
-```
+I usually ressiting, to use new technologies. Until they go Release...
+Vue has interesting features and became famous. 
+Lets give it a try , is it Release or just famous only for easy to use.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Working contitions directly affect the result.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Everything is for money or/and resources(R) that you have.
 
-### Lints and fixes files
-```
-yarn lint
-```
+1- What is it
+ 
+ It seems this guys using packages already in the field. My Ide prefered to Yarn for install...Nearly5 mins to download..(R).. Fine and good for me. So known tech stach used.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Lets dance.
+
+1.Commit - Start new Repository.. Welcome to Your Vue.js App is ready to go.
+
