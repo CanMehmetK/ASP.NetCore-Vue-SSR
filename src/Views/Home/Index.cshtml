@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="favicon.ico">
+    <title>Asp.Net Core 3.1 - Vue SSR</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@@mdi/font@@latest/css/materialdesignicons.min.css">
+    <environment names="Staging,Production">
+        <link rel="stylesheet" href="dist/css/chunk-vendors.css">
+    </environment>
+</head>
+<body>
+    <div asp-prerender-module="clientapp/ssr-scripts/renderOnServer"></div>
+    <environment names="Development">
+        <script src="dist/main.js"></script>
+    </environment>
+    <environment names="Staging,Production">
+        <script src="dist/js/main.js"></script>
+        <script src="dist/js/chunk-vendors.js"></script>
+    </environment>
+</body>
+</html>
