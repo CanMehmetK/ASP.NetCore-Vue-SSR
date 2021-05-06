@@ -1,26 +1,26 @@
 # ASP.NetCore-Vue-SSR
 Asp.Net Core Vue
 
-I usually ressiting, to use new technologies. Until they go Release...
-Vue has interesting features and became famous. 
-Lets give it a try , is it Release or just famous only for easy to use.
+I usually resisting, to use new technologies. Until they go Release... Vue has interesting features and became famous. Lets give it a try , is it Release or just famous only for easy to use.
 
-Working contitions directly affect the result.
+Working contitions directly affects the result.
 
-Everything is for money or/and resources(R) that you have.
+Everything is about money or/and resources(R) that you have.
 
 1- What is it
- 
- It seems this guys using packages already in the field. My Ide prefered to Yarn for install...Nearly5 mins to download..(R).. Fine and good for me. So known tech stach used.
+
+It seems this guys using packages already in the field. My IDE prefered to Yarn for install...Nearly5 mins to download..(R).. Fine and good for me.
+So known tech stach used.
 
 Lets dance.
 
 1.Commit - Start new Repository.. Welcome to Your Vue.js App is ready to go.
 
-2.Commit - .Net Hello App Added.. Add a .Net Core Project, Prepare folder structure that can confortLY read by human kind (Empty Project,) 
-As Uncle bob said Good code is that some one cared.
+2.Commit - .Net Hello App Added.. Add a .Net Core Project, Prepare folder structure that can confortLY read by human kind (Empty Project,) As Uncle bob said Good code is that some one cared.
 
 3.Commit - Add SPA to .Net Core Project
+
+
 
 	Adiing Pakage -> Microsoft.AspNetCore.SpaServices
 	That Installing: 
@@ -42,12 +42,15 @@ As Uncle bob said Good code is that some one cared.
 		Newtonsoft.Json.12.0.2
 
 
-After a few readings then, there is a few kind ways to succeed. All including take an asprin and figth with npm pacages :) dependecies and their relative..
+After a few readings then, there is a few kind ways to succeed.
+ All  involves taking aspirin and struggling with npm packs :) dependecies and their relative..and their dependecies
 Like a bad marriage...
 
-What ever ... Here is a solution that is working..
+Whatever ... Here is a solution that working properly..
 
-I use this way , couse of want to get teplates from server dynamically <- this is a plan ... good. :)
-Also folder structure need to reStructured.. Soo this is V 0.0001
+The reason I chose this path or architecture as seen in the code is that I want to get the templates dynamically from the server. <- this is a plan ... good. :)
+
+Also folder structure need to reStructured.. 
+this is V 0.0001
 
 
